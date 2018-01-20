@@ -23,4 +23,22 @@ let friendsArray = [
       'http://1rjm5qg4v8732kpmn44ya6bj-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/elmo-6601.png',
     scores: ['1', '1', '1', '1', '1', '1', '1', '1', '1', '1'],
   },
+  {
+    name: 'Miss Piggy',
+    photo:
+      'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
+    scores: ['1', '1', '5', '1', '3', '2', '5', '1', '1', '5'],
+  },
+  {
+    name: 'Spencer',
+    photo:
+      'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
+    scores: ['4', '3', '5', '1', '1', '5', '5', '1', '1', '1'],
+  },
+  {
+    name: 'Fluffy',
+    photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+    scores: ['2', '4', '1', '1', '1', '1', '1', '2', '1', '5'],
+  },
 ]
+module.exports - friendsArray
