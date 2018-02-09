@@ -1,8 +1,8 @@
 let friends = [
   {
-    name: 'Ahmed',
+    name: 'Achmed',
     photo:
-      'https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg',
+      'https://images-na.ssl-images-amazon.com/images/I/418ZPL4mmrL._SS500_.jpg',
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1],
   },
   {
@@ -26,7 +26,7 @@ let friends = [
   {
     name: 'Miss Piggy',
     photo:
-      'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
+      'http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2015/09/01/miss-piggy.png',
     scores: ['1', '1', '5', '1', '3', '2', '5', '1', '1', '5'],
   },
   {
@@ -40,5 +40,5 @@ let friends = [
     photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
     scores: ['2', '4', '1', '1', '1', '1', '1', '2', '1', '5'],
   },
-]
-module.exports = friends
+];
+module.exports = friends;
